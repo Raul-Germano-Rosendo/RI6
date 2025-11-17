@@ -103,6 +103,3 @@ Para contribuir ou modificar o projeto:
 
 ## Autor
 Raul Germano Rosendo
-
-## Licença
-Este projeto está sob a licença ISC.
